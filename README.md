@@ -43,4 +43,4 @@ If you're like me and you dislike NodeJS and NPM piling up heaps of folders on y
 
 
 
-PS: Insta@ simple_smilez
+PS: Insta [@simple_smilez](https://www.instagram.com/simple.smilez)
